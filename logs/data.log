@@ -1,0 +1,274 @@
+[2023-10-23 11:58:27 - data_validation.py:24 - INFO - Checking Year 1995
+[2023-10-23 11:58:27 - data_validation.py:26 - INFO - Checking Year 1999
+[2023-10-23 11:58:27 - data_validation.py:28 - INFO - Checking race 4
+[2023-10-23 11:58:27 - data_validation.py:31 - INFO - Checking Education: 3
+[2023-10-23 11:58:27 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-23 11:58:27 - data_validation.py:55 - INFO - Checking if start date 1995 is lower than end date 1999
+[2023-10-23 11:58:27 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-23 11:58:27 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1995" limit 10000000 JSON request
+[2023-10-23 11:58:32 - dal_api_calls.py:66 - INFO - Retrieved Years: 1995 and Counts: 13
+[2023-10-23 11:58:32 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1996" limit 10000000 JSON request
+[2023-10-23 11:58:34 - dal_api_calls.py:66 - INFO - Retrieved Years: 1996 and Counts: 9
+[2023-10-23 11:58:34 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1997" limit 10000000 JSON request
+[2023-10-23 11:58:37 - dal_api_calls.py:66 - INFO - Retrieved Years: 1997 and Counts: 4
+[2023-10-23 11:58:37 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1998" limit 10000000 JSON request
+[2023-10-23 11:58:39 - dal_api_calls.py:66 - INFO - Retrieved Years: 1998 and Counts: 8
+[2023-10-23 11:58:39 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1999" limit 10000000 JSON request
+[2023-10-23 11:58:40 - dal_api_calls.py:66 - INFO - Retrieved Years: 1999 and Counts: 4
+[2023-10-23 11:58:40 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-23 13:26:14 - data_validation.py:24 - INFO - Checking Year 1994
+[2023-10-23 13:26:14 - data_validation.py:26 - INFO - Checking Year 1996
+[2023-10-23 13:26:14 - data_validation.py:28 - INFO - Checking race 3
+[2023-10-23 13:26:14 - data_validation.py:31 - INFO - Checking Education: 4
+[2023-10-23 13:26:14 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-23 13:26:14 - data_validation.py:55 - INFO - Checking if start date 1994 is lower than end date 1996
+[2023-10-23 13:26:14 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-23 13:26:14 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1994" limit 10000000 JSON request
+[2023-10-23 13:26:16 - dal_api_calls.py:66 - INFO - Retrieved Years: 1994 and Counts: 20
+[2023-10-23 13:26:16 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1995" limit 10000000 JSON request
+[2023-10-23 13:26:16 - dal_api_calls.py:66 - INFO - Retrieved Years: 1995 and Counts: 17
+[2023-10-23 13:26:16 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1996" limit 10000000 JSON request
+[2023-10-23 13:26:18 - dal_api_calls.py:66 - INFO - Retrieved Years: 1996 and Counts: 18
+[2023-10-23 13:26:18 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-23 14:37:10 - data_validation.py:24 - INFO - Checking Year 1994
+[2023-10-23 14:37:10 - data_validation.py:26 - INFO - Checking Year 2000
+[2023-10-23 14:37:10 - data_validation.py:28 - INFO - Checking race 1
+[2023-10-23 14:37:10 - data_validation.py:31 - INFO - Checking Education: 4
+[2023-10-23 14:37:10 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-23 14:37:10 - data_validation.py:55 - INFO - Checking if start date 1994 is lower than end date 2000
+[2023-10-23 14:37:10 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-23 14:37:10 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1994" limit 10000000 JSON request
+[2023-10-23 14:37:13 - dal_api_calls.py:66 - INFO - Retrieved Years: 1994 and Counts: 819
+[2023-10-23 14:37:13 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1995" limit 10000000 JSON request
+[2023-10-23 14:37:14 - dal_api_calls.py:66 - INFO - Retrieved Years: 1995 and Counts: 614
+[2023-10-23 14:37:14 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1996" limit 10000000 JSON request
+[2023-10-23 14:37:15 - dal_api_calls.py:66 - INFO - Retrieved Years: 1996 and Counts: 596
+[2023-10-23 14:37:15 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1997" limit 10000000 JSON request
+[2023-10-23 14:37:16 - dal_api_calls.py:66 - INFO - Retrieved Years: 1997 and Counts: 563
+[2023-10-23 14:37:16 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1998" limit 10000000 JSON request
+[2023-10-23 14:37:17 - dal_api_calls.py:66 - INFO - Retrieved Years: 1998 and Counts: 472
+[2023-10-23 14:37:17 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1999" limit 10000000 JSON request
+[2023-10-23 14:37:18 - dal_api_calls.py:66 - INFO - Retrieved Years: 1999 and Counts: 391
+[2023-10-23 14:37:18 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2000" limit 10000000 JSON request
+[2023-10-23 14:37:19 - dal_api_calls.py:66 - INFO - Retrieved Years: 2000 and Counts: 330
+[2023-10-23 14:37:19 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-23 14:37:50 - data_validation.py:24 - INFO - Checking Year 1994
+[2023-10-23 14:37:50 - data_validation.py:26 - INFO - Checking Year 2018
+[2023-10-23 14:37:50 - data_validation.py:28 - INFO - Checking race 1
+[2023-10-23 14:37:50 - data_validation.py:31 - INFO - Checking Education: 4
+[2023-10-23 14:37:50 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-23 14:37:50 - data_validation.py:55 - INFO - Checking if start date 1994 is lower than end date 2018
+[2023-10-23 14:37:50 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-23 14:37:50 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1994" limit 10000000 JSON request
+[2023-10-23 14:37:51 - dal_api_calls.py:66 - INFO - Retrieved Years: 1994 and Counts: 819
+[2023-10-23 14:37:51 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1995" limit 10000000 JSON request
+[2023-10-23 14:37:51 - dal_api_calls.py:66 - INFO - Retrieved Years: 1995 and Counts: 614
+[2023-10-23 14:37:51 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1996" limit 10000000 JSON request
+[2023-10-23 14:37:52 - dal_api_calls.py:66 - INFO - Retrieved Years: 1996 and Counts: 596
+[2023-10-23 14:37:52 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1997" limit 10000000 JSON request
+[2023-10-23 14:37:53 - dal_api_calls.py:66 - INFO - Retrieved Years: 1997 and Counts: 563
+[2023-10-23 14:37:53 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1998" limit 10000000 JSON request
+[2023-10-23 14:37:54 - dal_api_calls.py:66 - INFO - Retrieved Years: 1998 and Counts: 472
+[2023-10-23 14:37:54 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1999" limit 10000000 JSON request
+[2023-10-23 14:37:55 - dal_api_calls.py:66 - INFO - Retrieved Years: 1999 and Counts: 391
+[2023-10-23 14:37:55 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2000" limit 10000000 JSON request
+[2023-10-23 14:37:56 - dal_api_calls.py:66 - INFO - Retrieved Years: 2000 and Counts: 330
+[2023-10-23 14:37:56 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2001" limit 10000000 JSON request
+[2023-10-23 14:37:56 - dal_api_calls.py:66 - INFO - Retrieved Years: 2001 and Counts: 307
+[2023-10-23 14:37:56 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2002" limit 10000000 JSON request
+[2023-10-23 14:37:57 - dal_api_calls.py:66 - INFO - Retrieved Years: 2002 and Counts: 294
+[2023-10-23 14:37:57 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2003" limit 10000000 JSON request
+[2023-10-23 14:37:58 - dal_api_calls.py:66 - INFO - Retrieved Years: 2003 and Counts: 238
+[2023-10-23 14:37:58 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2004" limit 10000000 JSON request
+[2023-10-23 14:37:58 - dal_api_calls.py:66 - INFO - Retrieved Years: 2004 and Counts: 200
+[2023-10-23 14:37:58 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2005" limit 10000000 JSON request
+[2023-10-23 14:37:59 - dal_api_calls.py:66 - INFO - Retrieved Years: 2005 and Counts: 160
+[2023-10-23 14:37:59 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2006" limit 10000000 JSON request
+[2023-10-23 14:38:00 - dal_api_calls.py:66 - INFO - Retrieved Years: 2006 and Counts: 242
+[2023-10-23 14:38:00 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2007" limit 10000000 JSON request
+[2023-10-23 14:38:00 - dal_api_calls.py:66 - INFO - Retrieved Years: 2007 and Counts: 211
+[2023-10-23 14:38:00 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2008" limit 10000000 JSON request
+[2023-10-23 14:38:01 - dal_api_calls.py:66 - INFO - Retrieved Years: 2008 and Counts: 168
+[2023-10-23 14:38:01 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2009" limit 10000000 JSON request
+[2023-10-23 14:38:02 - dal_api_calls.py:66 - INFO - Retrieved Years: 2009 and Counts: 142
+[2023-10-23 14:38:02 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2010" limit 10000000 JSON request
+[2023-10-23 14:38:02 - dal_api_calls.py:66 - INFO - Retrieved Years: 2010 and Counts: 138
+[2023-10-23 14:38:02 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2011" limit 10000000 JSON request
+[2023-10-23 14:38:03 - dal_api_calls.py:66 - INFO - Retrieved Years: 2011 and Counts: 169
+[2023-10-23 14:38:03 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2012" limit 10000000 JSON request
+[2023-10-23 14:38:03 - dal_api_calls.py:66 - INFO - Retrieved Years: 2012 and Counts: 187
+[2023-10-23 14:38:03 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2013" limit 10000000 JSON request
+[2023-10-23 14:38:04 - dal_api_calls.py:66 - INFO - Retrieved Years: 2013 and Counts: 162
+[2023-10-23 14:38:04 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2014" limit 10000000 JSON request
+[2023-10-23 14:38:05 - dal_api_calls.py:66 - INFO - Retrieved Years: 2014 and Counts: 154
+[2023-10-23 14:38:05 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2015" limit 10000000 JSON request
+[2023-10-23 14:38:06 - dal_api_calls.py:66 - INFO - Retrieved Years: 2015 and Counts: 148
+[2023-10-23 14:38:06 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2016" limit 10000000 JSON request
+[2023-10-23 14:38:07 - dal_api_calls.py:66 - INFO - Retrieved Years: 2016 and Counts: 189
+[2023-10-23 14:38:07 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2017" limit 10000000 JSON request
+[2023-10-23 14:38:09 - dal_api_calls.py:66 - INFO - Retrieved Years: 2017 and Counts: 229
+[2023-10-23 14:38:09 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2018" limit 10000000 JSON request
+[2023-10-23 14:38:11 - dal_api_calls.py:66 - INFO - Retrieved Years: 2018 and Counts: 286
+[2023-10-23 14:38:11 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-23 14:38:27 - data_validation.py:24 - INFO - Checking Year 1994
+[2023-10-23 14:38:27 - data_validation.py:26 - INFO - Checking Year 2018
+[2023-10-23 14:38:27 - data_validation.py:28 - INFO - Checking race 1
+[2023-10-23 14:38:27 - data_validation.py:31 - INFO - Checking Education: 4
+[2023-10-23 14:38:27 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-23 14:38:27 - data_validation.py:55 - INFO - Checking if start date 1994 is lower than end date 2018
+[2023-10-23 14:38:27 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-23 14:38:27 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1994" limit 10000000 JSON request
+[2023-10-23 14:38:28 - dal_api_calls.py:66 - INFO - Retrieved Years: 1994 and Counts: 869
+[2023-10-23 14:38:28 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1995" limit 10000000 JSON request
+[2023-10-23 14:38:29 - dal_api_calls.py:66 - INFO - Retrieved Years: 1995 and Counts: 691
+[2023-10-23 14:38:29 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1996" limit 10000000 JSON request
+[2023-10-23 14:38:29 - dal_api_calls.py:66 - INFO - Retrieved Years: 1996 and Counts: 632
+[2023-10-23 14:38:29 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1997" limit 10000000 JSON request
+[2023-10-23 14:38:30 - dal_api_calls.py:66 - INFO - Retrieved Years: 1997 and Counts: 536
+[2023-10-23 14:38:30 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1998" limit 10000000 JSON request
+[2023-10-23 14:38:31 - dal_api_calls.py:66 - INFO - Retrieved Years: 1998 and Counts: 541
+[2023-10-23 14:38:31 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1999" limit 10000000 JSON request
+[2023-10-23 14:38:32 - dal_api_calls.py:66 - INFO - Retrieved Years: 1999 and Counts: 431
+[2023-10-23 14:38:32 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2000" limit 10000000 JSON request
+[2023-10-23 14:38:32 - dal_api_calls.py:66 - INFO - Retrieved Years: 2000 and Counts: 380
+[2023-10-23 14:38:32 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2001" limit 10000000 JSON request
+[2023-10-23 14:38:33 - dal_api_calls.py:66 - INFO - Retrieved Years: 2001 and Counts: 289
+[2023-10-23 14:38:33 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2002" limit 10000000 JSON request
+[2023-10-23 14:38:34 - dal_api_calls.py:66 - INFO - Retrieved Years: 2002 and Counts: 290
+[2023-10-23 14:38:34 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2003" limit 10000000 JSON request
+[2023-10-23 14:38:35 - dal_api_calls.py:66 - INFO - Retrieved Years: 2003 and Counts: 241
+[2023-10-23 14:38:35 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2004" limit 10000000 JSON request
+[2023-10-23 14:38:35 - dal_api_calls.py:66 - INFO - Retrieved Years: 2004 and Counts: 210
+[2023-10-23 14:38:35 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2005" limit 10000000 JSON request
+[2023-10-23 14:38:36 - dal_api_calls.py:66 - INFO - Retrieved Years: 2005 and Counts: 216
+[2023-10-23 14:38:36 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2006" limit 10000000 JSON request
+[2023-10-23 14:38:36 - dal_api_calls.py:66 - INFO - Retrieved Years: 2006 and Counts: 236
+[2023-10-23 14:38:36 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2007" limit 10000000 JSON request
+[2023-10-23 14:38:37 - dal_api_calls.py:66 - INFO - Retrieved Years: 2007 and Counts: 232
+[2023-10-23 14:38:37 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2008" limit 10000000 JSON request
+[2023-10-23 14:38:38 - dal_api_calls.py:66 - INFO - Retrieved Years: 2008 and Counts: 220
+[2023-10-23 14:38:38 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2009" limit 10000000 JSON request
+[2023-10-23 14:38:39 - dal_api_calls.py:66 - INFO - Retrieved Years: 2009 and Counts: 161
+[2023-10-23 14:38:39 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2010" limit 10000000 JSON request
+[2023-10-23 14:38:40 - dal_api_calls.py:66 - INFO - Retrieved Years: 2010 and Counts: 154
+[2023-10-23 14:38:40 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2011" limit 10000000 JSON request
+[2023-10-23 14:38:41 - dal_api_calls.py:66 - INFO - Retrieved Years: 2011 and Counts: 191
+[2023-10-23 14:38:41 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2012" limit 10000000 JSON request
+[2023-10-23 14:38:41 - dal_api_calls.py:66 - INFO - Retrieved Years: 2012 and Counts: 209
+[2023-10-23 14:38:41 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2013" limit 10000000 JSON request
+[2023-10-23 14:38:42 - dal_api_calls.py:66 - INFO - Retrieved Years: 2013 and Counts: 167
+[2023-10-23 14:38:42 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2014" limit 10000000 JSON request
+[2023-10-23 14:38:43 - dal_api_calls.py:66 - INFO - Retrieved Years: 2014 and Counts: 156
+[2023-10-23 14:38:43 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2015" limit 10000000 JSON request
+[2023-10-23 14:38:43 - dal_api_calls.py:66 - INFO - Retrieved Years: 2015 and Counts: 143
+[2023-10-23 14:38:43 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2016" limit 10000000 JSON request
+[2023-10-23 14:38:44 - dal_api_calls.py:66 - INFO - Retrieved Years: 2016 and Counts: 188
+[2023-10-23 14:38:44 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2017" limit 10000000 JSON request
+[2023-10-23 14:38:45 - dal_api_calls.py:66 - INFO - Retrieved Years: 2017 and Counts: 243
+[2023-10-23 14:38:45 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2018" limit 10000000 JSON request
+[2023-10-23 14:38:45 - dal_api_calls.py:66 - INFO - Retrieved Years: 2018 and Counts: 228
+[2023-10-23 14:38:45 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-25 15:25:17 - data_validation.py:24 - INFO - Checking Year 2009
+[2023-10-25 15:25:17 - data_validation.py:26 - INFO - Checking Year 2016
+[2023-10-25 15:25:17 - data_validation.py:28 - INFO - Checking race 6
+[2023-10-25 15:25:17 - data_validation.py:31 - INFO - Checking Education: 5
+[2023-10-25 15:25:17 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-25 15:25:17 - data_validation.py:55 - INFO - Checking if start date 2009 is lower than end date 2016
+[2023-10-25 15:25:17 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-25 15:25:17 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2009" limit 10000000 JSON request
+[2023-10-25 15:25:18 - dal_api_calls.py:66 - INFO - Retrieved Years: 2009 and Counts: 21
+[2023-10-25 15:25:18 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2010" limit 10000000 JSON request
+[2023-10-25 15:25:19 - dal_api_calls.py:66 - INFO - Retrieved Years: 2010 and Counts: 25
+[2023-10-25 15:25:19 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2011" limit 10000000 JSON request
+[2023-10-25 15:25:19 - dal_api_calls.py:66 - INFO - Retrieved Years: 2011 and Counts: 59
+[2023-10-25 15:25:19 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2012" limit 10000000 JSON request
+[2023-10-25 15:25:20 - dal_api_calls.py:66 - INFO - Retrieved Years: 2012 and Counts: 43
+[2023-10-25 15:25:20 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2013" limit 10000000 JSON request
+[2023-10-25 15:25:21 - dal_api_calls.py:66 - INFO - Retrieved Years: 2013 and Counts: 63
+[2023-10-25 15:25:21 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2014" limit 10000000 JSON request
+[2023-10-25 15:25:21 - dal_api_calls.py:66 - INFO - Retrieved Years: 2014 and Counts: 38
+[2023-10-25 15:25:21 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2015" limit 10000000 JSON request
+[2023-10-25 15:25:22 - dal_api_calls.py:66 - INFO - Retrieved Years: 2015 and Counts: 34
+[2023-10-25 15:25:22 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2016" limit 10000000 JSON request
+[2023-10-25 15:25:22 - dal_api_calls.py:66 - INFO - Retrieved Years: 2016 and Counts: 48
+[2023-10-25 15:25:22 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-26 14:21:09 - data_validation.py:24 - INFO - Checking Year 2021
+[2023-10-26 14:21:09 - data_validation.py:26 - INFO - Checking Year 2022
+[2023-10-26 14:21:09 - data_validation.py:28 - INFO - Checking race 1
+[2023-10-26 14:21:09 - data_validation.py:31 - INFO - Checking Education: 4
+[2023-10-26 14:21:09 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-26 14:21:09 - data_validation.py:55 - INFO - Checking if start date 2021 is lower than end date 2022
+[2023-10-26 14:21:09 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-26 14:21:09 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2021" limit 10000000 JSON request
+[2023-10-26 14:21:10 - dal_api_calls.py:66 - INFO - Retrieved Years: 2021 and Counts: 178
+[2023-10-26 14:21:10 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2022" limit 10000000 JSON request
+[2023-10-26 14:21:11 - dal_api_calls.py:66 - INFO - Retrieved Years: 2022 and Counts: 205
+[2023-10-26 14:21:11 - data_validation.py:84 - INFO - Retrieved data
+[2023-10-26 14:21:28 - data_validation.py:24 - INFO - Checking Year 1993
+[2023-10-26 14:21:28 - data_validation.py:26 - INFO - Checking Year 2022
+[2023-10-26 14:21:28 - data_validation.py:28 - INFO - Checking race 1
+[2023-10-26 14:21:28 - data_validation.py:31 - INFO - Checking Education: 5
+[2023-10-26 14:21:28 - data_validation.py:32 - INFO - Combo Boxes Values are good.
+[2023-10-26 14:21:28 - data_validation.py:55 - INFO - Checking if start date 1993 is lower than end date 2022
+[2023-10-26 14:21:28 - data_validation.py:60 - INFO - Years within acceptable range
+[2023-10-26 14:21:28 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1993" limit 10000000 JSON request
+[2023-10-26 14:21:29 - dal_api_calls.py:66 - INFO - Retrieved Years: 1993 and Counts: 573
+[2023-10-26 14:21:29 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1994" limit 10000000 JSON request
+[2023-10-26 14:21:30 - dal_api_calls.py:66 - INFO - Retrieved Years: 1994 and Counts: 780
+[2023-10-26 14:21:30 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1995" limit 10000000 JSON request
+[2023-10-26 14:21:31 - dal_api_calls.py:66 - INFO - Retrieved Years: 1995 and Counts: 729
+[2023-10-26 14:21:31 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1996" limit 10000000 JSON request
+[2023-10-26 14:21:32 - dal_api_calls.py:66 - INFO - Retrieved Years: 1996 and Counts: 604
+[2023-10-26 14:21:32 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1997" limit 10000000 JSON request
+[2023-10-26 14:21:33 - dal_api_calls.py:66 - INFO - Retrieved Years: 1997 and Counts: 528
+[2023-10-26 14:21:33 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1998" limit 10000000 JSON request
+[2023-10-26 14:21:34 - dal_api_calls.py:66 - INFO - Retrieved Years: 1998 and Counts: 467
+[2023-10-26 14:21:34 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "1999" limit 10000000 JSON request
+[2023-10-26 14:21:35 - dal_api_calls.py:66 - INFO - Retrieved Years: 1999 and Counts: 392
+[2023-10-26 14:21:35 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2000" limit 10000000 JSON request
+[2023-10-26 14:21:35 - dal_api_calls.py:66 - INFO - Retrieved Years: 2000 and Counts: 381
+[2023-10-26 14:21:35 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2001" limit 10000000 JSON request
+[2023-10-26 14:21:36 - dal_api_calls.py:66 - INFO - Retrieved Years: 2001 and Counts: 309
+[2023-10-26 14:21:36 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2002" limit 10000000 JSON request
+[2023-10-26 14:21:36 - dal_api_calls.py:66 - INFO - Retrieved Years: 2002 and Counts: 269
+[2023-10-26 14:21:36 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2003" limit 10000000 JSON request
+[2023-10-26 14:21:37 - dal_api_calls.py:66 - INFO - Retrieved Years: 2003 and Counts: 261
+[2023-10-26 14:21:37 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2004" limit 10000000 JSON request
+[2023-10-26 14:21:38 - dal_api_calls.py:66 - INFO - Retrieved Years: 2004 and Counts: 307
+[2023-10-26 14:21:38 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2005" limit 10000000 JSON request
+[2023-10-26 14:21:38 - dal_api_calls.py:66 - INFO - Retrieved Years: 2005 and Counts: 223
+[2023-10-26 14:21:38 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2006" limit 10000000 JSON request
+[2023-10-26 14:21:39 - dal_api_calls.py:66 - INFO - Retrieved Years: 2006 and Counts: 303
+[2023-10-26 14:21:39 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2007" limit 10000000 JSON request
+[2023-10-26 14:21:40 - dal_api_calls.py:66 - INFO - Retrieved Years: 2007 and Counts: 289
+[2023-10-26 14:21:40 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2008" limit 10000000 JSON request
+[2023-10-26 14:21:40 - dal_api_calls.py:66 - INFO - Retrieved Years: 2008 and Counts: 213
+[2023-10-26 14:21:40 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2009" limit 10000000 JSON request
+[2023-10-26 14:21:41 - dal_api_calls.py:66 - INFO - Retrieved Years: 2009 and Counts: 192
+[2023-10-26 14:21:41 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2010" limit 10000000 JSON request
+[2023-10-26 14:21:41 - dal_api_calls.py:66 - INFO - Retrieved Years: 2010 and Counts: 188
+[2023-10-26 14:21:41 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2011" limit 10000000 JSON request
+[2023-10-26 14:21:42 - dal_api_calls.py:66 - INFO - Retrieved Years: 2011 and Counts: 219
+[2023-10-26 14:21:42 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2012" limit 10000000 JSON request
+[2023-10-26 14:21:43 - dal_api_calls.py:66 - INFO - Retrieved Years: 2012 and Counts: 301
+[2023-10-26 14:21:43 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2013" limit 10000000 JSON request
+[2023-10-26 14:21:43 - dal_api_calls.py:66 - INFO - Retrieved Years: 2013 and Counts: 245
+[2023-10-26 14:21:43 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2014" limit 10000000 JSON request
+[2023-10-26 14:21:44 - dal_api_calls.py:66 - INFO - Retrieved Years: 2014 and Counts: 228
+[2023-10-26 14:21:44 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2015" limit 10000000 JSON request
+[2023-10-26 14:21:45 - dal_api_calls.py:66 - INFO - Retrieved Years: 2015 and Counts: 219
+[2023-10-26 14:21:45 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2016" limit 10000000 JSON request
+[2023-10-26 14:21:46 - dal_api_calls.py:66 - INFO - Retrieved Years: 2016 and Counts: 364
+[2023-10-26 14:21:46 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2017" limit 10000000 JSON request
+[2023-10-26 14:21:46 - dal_api_calls.py:66 - INFO - Retrieved Years: 2017 and Counts: 404
+[2023-10-26 14:21:46 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2018" limit 10000000 JSON request
+[2023-10-26 14:21:47 - dal_api_calls.py:66 - INFO - Retrieved Years: 2018 and Counts: 455
+[2023-10-26 14:21:47 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2019" limit 10000000 JSON request
+[2023-10-26 14:21:48 - dal_api_calls.py:66 - INFO - Retrieved Years: 2019 and Counts: 378
+[2023-10-26 14:21:48 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2020" limit 10000000 JSON request
+[2023-10-26 14:21:49 - dal_api_calls.py:66 - INFO - Retrieved Years: 2020 and Counts: 345
+[2023-10-26 14:21:49 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2021" limit 10000000 JSON request
+[2023-10-26 14:21:49 - dal_api_calls.py:66 - INFO - Retrieved Years: 2021 and Counts: 380
+[2023-10-26 14:21:49 - dal_api_calls.py:27 - INFO - Executing https://data.ojp.usdoj.gov/resource/gcuy-rt5g.json?$query=select * where year = "2022" limit 10000000 JSON request
+[2023-10-26 14:21:50 - dal_api_calls.py:66 - INFO - Retrieved Years: 2022 and Counts: 414
+[2023-10-26 14:21:50 - data_validation.py:84 - INFO - Retrieved data
